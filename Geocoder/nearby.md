@@ -37,3 +37,4 @@ Parameter | Type | Required | Default | Example
 `boundary.circle.radius` | floating point number | no | 1 | `0.5`
 `size` | integer | no | `10` | `3`
 `layers` | được phân cách bằng dấu phẩy | no | none (all layers) | `address,locality`
+`api-version` | text | yes | 1.1 | 1.1 
