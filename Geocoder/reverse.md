@@ -1,6 +1,6 @@
 # Reverse geocoding API
 
-Reverse geocoding is  được sử dụng để tìm địa điểm hoặc địa chỉ gần cặp vĩ độ, kinh độ &mdash; như nhấp vào bản đồ để xem thông tin tại vị trí điểm đó. Ví dụ: bản đồ hiển thị tòa nhà nhưng không có nhãn, sau đó nhấp vào tòa nhà thì hiển thị tên của doanh nghiệp.
+Reverse geocoding is  được sử dụng để tìm địa điểm hoặc địa chỉ gần cặp vĩ độ, kinh độ như nhấp vào bản đồ để xem thông tin tại vị trí điểm đó. Ví dụ: bản đồ hiển thị tòa nhà nhưng không có nhãn, sau đó nhấp vào tòa nhà thì hiển thị tên của doanh nghiệp.
 
 Với reverse geocoding bạn có thể tra cứu tất cả các loại thông tin về các điểm trên bản đồ, bao gồm:
 
@@ -26,7 +26,7 @@ Parameter | Type | Required | Default | Example
 `boundary.circle.radius` | floating point number | no | 1 | `0.5`
 `size` | integer | no | `10` | `3`
 `layers` | được phân cách bằng dấu phẩy | no | none (all layers) | `address,locality`
-
+`api-version` | text | yes | 1.1 | 1.1 
 ### Size
 
 Một tham số cơ bản để lọc là `size`, được sử dụng để giới hạn số lượng kết quả trả về. 
