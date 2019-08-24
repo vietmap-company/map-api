@@ -11,7 +11,7 @@
 - Khi nhiều giá trị được truyền vào `categories` thì tìm kiếm sẽ mang ý nghĩa OR giữa các giá trị
 
 ### Categorie Code
-- Thông tin về từng loại code của `Categories` bạn có thể [tải về ở đây](/poicat/vietmap-poi-category.xlsx)
+- Thông tin về từng loại code của `Categories` bạn có thể [tải về ở đây](/poicat/vietmap-poi-category.xlsx?raw=true)
 - Bảng phân loại rất chi tiết giúp bạn tìm chính xác hơn.
 ### Validation
 
