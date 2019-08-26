@@ -17,14 +17,14 @@
 
 Dùng `categories` với 1 loại
 
-`/api/nearby?categories=1000&10.758584896812293&point.lon=106.67527198791505`
+`/api/nearby?categories=1000&point.lat=10.758584896812293&point.lon=106.67527198791505`
 
 > Tìm kiếm ở vị trí focus những điểm ăn uống vì code 1000 là group ăn uống
 
 
 Dùng `categories` với nhiều loại
 
-`/api/nearby?categories=1001-1,1001-5&point.lon=-73.984537&point.lat=40.740134`
+`/api/nearby?categories=1001-1,1001-5&&point.lat=10.758584896812293&point.lon=106.67527198791505`
 
 > Tìm kiếm ở vị trí focus những điểm là Cafe hoặc Beer Club
 
