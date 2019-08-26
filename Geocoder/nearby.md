@@ -24,7 +24,7 @@ Dùng `categories` với 1 loại
 
 Dùng `categories` với nhiều loại
 
-`/api/nearby?categories=1001-1,1001-5&&point.lat=10.758584896812293&point.lon=106.67527198791505`
+`/api/nearby?categories=1001-1,1001-5&point.lat=10.758584896812293&point.lon=106.67527198791505`
 
 > Tìm kiếm ở vị trí focus những điểm là Cafe hoặc Beer Club
 
